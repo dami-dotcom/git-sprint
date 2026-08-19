@@ -1,6 +1,8 @@
-# Equipo Los tres mosqueteros
+# Equipo
 
-Lema: TODO
+Lema: Bueno gurices a encarar.
+=======
+# Equipo Los tres mosqueteros
 
 Contacto: equipo@ejemplo.con
 Version: 0.1
